@@ -1,0 +1,3 @@
+# C++ & Lua 2D Entity-Component Game Engine
+## Uses SDL2 and GLM library
+Just practicing...
